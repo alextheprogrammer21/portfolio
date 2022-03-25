@@ -32,6 +32,14 @@ export const ProjectList = [
     tech_stack: "React, javascript, node, express, mongodb",
     github_url: "https://github.com/alextheprogrammer21/team-cedar",
   },
+  {
+    img: "https://raw.githubusercontent.com/alextheprogrammer21/Natours/master/img/screenshots/Screen%20Shot%202021-11-16%20at%2010.13.23%20AM.png",
+    title: "Natours",
+    description: "A landing page for outdoor tours!",
+    tech_stack: "html. css",
+    github_url: "https://github.com/alextheprogrammer21/Natours",
+    demo_url: "https://alextheprogrammer21.github.io/Natours/",
+  },
 ];
 
 // --------------------------------------- Skills
