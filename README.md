@@ -1,1 +1,1 @@
-Live link: https://alextheprogrammer.netlify.app/#/
+Live link: https://alextheprogrammer.netlify.app/
