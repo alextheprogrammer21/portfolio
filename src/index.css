@@ -84,6 +84,14 @@ video {
   color: #010606;
 }
 
+.disabled {
+  background: grey;
+}
+
+.disabled:hover {
+  background: grey;
+  color: #f6f6f6;
+}
 .SecondarBtn:hover {
   background: rgb(57, 134, 250);
   color: #fff;

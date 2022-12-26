@@ -5,38 +5,34 @@ export const ProjectList = [
     title: "Crown Clothing",
     description:
       "A fully functioning e-commerce store which utilizes the stripe api for payment and checkout.",
-    tech_stack: "React, Redux, Firebase",
+    tech_stack: "React, Redux, Node, Firebase",
     github_url: "https://github.com/alextheprogrammer21/Crown-Clothing",
-    demo_url: "https://crwned-live.herokuapp.com/",
-  },
-  {
-    img: "https://raw.githubusercontent.com/alextheprogrammer21/jungle-rails/master/Images/Screen%20Shot%202020-04-08%20at%201.41.34%20PM.png",
-    title: "Jungle Rails",
-    description: "A mini e-commerce application built with Rails 4.2.",
-    tech_stack: "Ruby, html, css",
-    github_url: "https://github.com/alextheprogrammer21/jungle-rails",
+    demo_url:
+      "https://63a8d4774f8b8b1e3e9e04ea--incredible-panda-aa8de2.netlify.app/",
   },
   {
     img: "https://raw.githubusercontent.com/alextheprogrammer21/Interview-Scheduler/master/public/images/Screenshot0.png",
     title: "Interview Scheduler",
     description:
       "A scheduler that allows users to set up, edit, or delete appointments.",
-    tech_stack: "React, javascript, node, express, postgresql",
+    tech_stack: "React, javascript, node, express, postgresql, jest, cypress",
     github_url: "https://github.com/alextheprogrammer21/Interview-Scheduler",
+    // demo_url: "https://github.com/alextheprogrammer21/Interview-Scheduler",
   },
   {
     img: "https://raw.githubusercontent.com/alextheprogrammer21/team-cedar/main/demo/images/profiledetails.png",
     title: "Pet Sitter",
     description:
       "A React application that connects pet owners with people who can take care of their pet.",
-    tech_stack: "React, javascript, node, express, mongodb",
+    tech_stack: "React, typescript, node, express, mongodb",
     github_url: "https://github.com/alextheprogrammer21/team-cedar",
+    // demo_url: "https://github.com/alextheprogrammer21/team-cedar",
   },
   {
     img: "https://raw.githubusercontent.com/alextheprogrammer21/Natours/master/img/screenshots/Screen%20Shot%202021-11-16%20at%2010.13.23%20AM.png",
     title: "Natours",
     description: "A landing page for outdoor tours!",
-    tech_stack: "html. css",
+    tech_stack: "html, css",
     github_url: "https://github.com/alextheprogrammer21/Natours",
     demo_url: "https://alextheprogrammer21.github.io/Natours/",
   },
@@ -70,7 +66,7 @@ export const stackList = [
     name: "CSS",
   },
   {
-    img: "../Assets/node.png",
+    img: "https://raw.githubusercontent.com/alextheprogrammer21/portfolio/master/src/Assets/node.png",
     name: "Node",
   },
   {
@@ -78,11 +74,11 @@ export const stackList = [
     name: "mySQL",
   },
   {
-    img: "https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg",
+    img: "https://raw.githubusercontent.com/alextheprogrammer21/portfolio/master/src/Assets/cypress.jpeg",
     name: "Cypress",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
+    img: "https://raw.githubusercontent.com/alextheprogrammer21/portfolio/master/src/Assets/jira.png",
     name: "Jira",
   },
   {
