@@ -17,10 +17,12 @@ function About() {
         <div className="BigCard">
           <Image src={programmer} alt="man-svgrepo" />
           <div className="AboutBio">
-            Hello! My name is Alex. I'm a <strong>software engineer</strong>{" "}
-            with a background in accounting and finance looking to use my
-            programming experience to make an impact and help your organization,
-            the team, and the clients accomplish their development goals.
+            Hello! My name is Abhi(Alex). I'm a{" "}
+            <strong>full stack developer</strong> with several years of
+            experience working in startups and medium sized companies. I am
+            looking to use my programming experience to make an impact and help
+            your organization, the team, and the clients accomplish their
+            development goals.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

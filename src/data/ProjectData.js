@@ -69,14 +69,21 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
     name: "CSS",
   },
-
+  {
+    img: "../Assets/node.png",
+    name: "Node",
+  },
   {
     img: "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
     name: "mySQL",
   },
   {
     img: "https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg",
-    name: "MongoDB",
+    name: "Cypress",
+  },
+  {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
+    name: "Jira",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
